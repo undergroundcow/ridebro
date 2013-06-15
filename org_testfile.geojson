@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "FACILITY_I": 123976.0, "SERVICE_DA": "2007\/03\/26", "CALL_SIGN": "NULL", "CHANNEL": 234.0, "APP_ID": 500243.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "GA", "TRANSLATOR": 0.0, "CITY": "SPRINGFIELD" }, "geometry": { "type": "Point", "coordinates": [ 37.686877, -122.495844 ] } }
+{ "type": "Feature", "properties": { "FACILITY_I": 123976.0, "SERVICE_DA": "2007\/03\/26", "CALL_SIGN": "NULL", "CHANNEL": 234.0, "APP_ID": 500243.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "GA", "TRANSLATOR": 0.0, "CITY": "SPRINGFIELD" }, "geometry": { "type": "Point", "coordinates": [ -122.495844, 37.686877 ] } }
 ,
 { "type": "Feature", "properties": { "FACILITY_I": 124565.0, "SERVICE_DA": "2009\/12\/18", "CALL_SIGN": "KXRN-LP", "CHANNEL": 228.0, "APP_ID": 501374.0, "COUNTRY": "US", "CLASS": "L1", "SERVICE_TY": "FL", "STATE": "CA", "TRANSLATOR": 0.0, "CITY": "LAGUNA NIGUEL" }, "geometry": { "type": "Point", "coordinates": [ -117.71088602754223, 33.523081689255775 ] } }
 ,
