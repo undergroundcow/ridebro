@@ -9,6 +9,9 @@
 { "type": "Feature", "properties": { "THIRD_RIDE": 111, "ADDRESS3": "113_RIDE" }, "geometry": { "type": "Point", "coordinates": [ -122.488376, 37.692162  ] } }
 ,                                                                         
 { "type": "Feature", "properties": { "THIRD_RIDE": 111, "ADDRESS3": "113_RIDE" }, "geometry": { "type": "Point", "coordinates": [ -122.495844, 37.686877 ] } }
+,
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "ZIP": "60647" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.689292, -122.485854 ], [ 37.689314, -122.485017 ], [ 37.687259, -122.485001 ], [ 37.687255, -122.485844 ] ] ] } }
 
 ]
 }
