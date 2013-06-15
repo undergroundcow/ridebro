@@ -3,13 +3,10 @@
 
 "features": [                                                                              
 { "type": "Feature", "properties": { "STARTING_POINT": 111, "ADDRESS": "111_RIDE" }, "geometry": { "type": "Point", "coordinates": [ 37.690205, -122.487088 ] } }
-
 ,                                                                     
 { "type": "Feature", "properties": { "SECOND_RIDE": 111, "ADDRESS2": "112_RIDE" }, "geometry": { "type": "Point", "coordinates": [ 37.691092, -122.488258 ] } }
-
 ,                                                                            
 { "type": "Feature", "properties": { "THIRD_RIDE": 111, "ADDRESS3": "113_RIDE" }, "geometry": { "type": "Point", "coordinates": [ 37.692162, -122.488376 ] } }
-
 ,                                                                         
 { "type": "Feature", "properties": { "THIRD_RIDE": 111, "ADDRESS3": "113_RIDE" }, "geometry": { "type": "Point", "coordinates": [ 37.686877,-122.495844 ] } }
 
